@@ -1,0 +1,9 @@
+/**** Equal Blog Height *****/
+.pa-blog-equal-height .pa-auto-height {
+    height: auto !important;
+}
+
+.pa-blog-equal-height .pa-auto-margin {
+    margin-top: 20px !important;
+}
+/**** End Equal Blog Height *****/
